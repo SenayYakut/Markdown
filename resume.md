@@ -1,6 +1,6 @@
  *this is a markdown*
- ##SENAY YAKUT,​ ​Software Engineer 
-San Francisco, CA, USA​​​ ​senaykt@gmail.com
+ ## SENAY YAKUT,​ ​Software Engineer 
+## San Francisco, CA, USA​​​ ​senaykt@gmail.com
 ​​
 github.com/Senagit status
 yYakut​​ ​ ​ www.linkedin.com/in/senaykt/ ​ ​codepen.io/Shenay/pen/jYOoOg
