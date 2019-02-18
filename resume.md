@@ -1,8 +1,13 @@
  *this is a markdown*
  ## SENAY YAKUT,​ ​Software Engineer 
 ## San Francisco, CA, USA​​​ ​senaykt@gmail.com
-​​
-[github.com/SenayYakut](https://github.com/SenayYakut)[Linkedin/SenayYakut](www.linkedin.com/in/senaykt/) ​ ​[codepen.io/Senay](https://codepen.io/Shenay/pen/PeaNpV)
+
+[github.com/SenayYakut](https://github.com/SenayYakut)
+
+
+[Linkedin/SenayYakut](www.linkedin.com/in/senaykt/) 
+
+[codepen.io/Senay](https://codepen.io/Shenay/pen/PeaNpV)
 
 
 Objectives:
