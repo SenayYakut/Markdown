@@ -2,8 +2,9 @@
  ## SENAY YAKUT,​ ​Software Engineer 
 ## San Francisco, CA, USA​​​ ​senaykt@gmail.com
 ​​
-github.com/Senagit status
-yYakut​​ ​ ​ www.linkedin.com/in/senaykt/ ​ ​codepen.io/Shenay/pen/jYOoOg
+[github.com/SenayYakut](https://github.com/SenayYakut)[Linkedin/SenayYakut](www.linkedin.com/in/senaykt/) ​ ​[codepen.io/Senay](https://codepen.io/Shenay/pen/PeaNpV)
+
+
 Objectives:
 A forward-thinking, self-taught developer offering more than 2 years of experience building, creating integrating, supporting and improving Web development. Extensive skill delegating tasks based on priority.
 Technologies​:​
