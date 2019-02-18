@@ -1,7 +1,9 @@
-##this is a markdown file
-##SENAY YAKUT,​ ​Software Engineer San #Francisco, CA, USA​​​ ​senaykt@gmail.com
+ *this is a markdown*
+ ##SENAY YAKUT,​ ​Software Engineer 
+San Francisco, CA, USA​​​ ​senaykt@gmail.com
 ​​
-github.com/SenayYakut​​ ​ ​ www.linkedin.com/in/senaykt/ ​ ​codepen.io/Shenay/pen/jYOoOg
+github.com/Senagit status
+yYakut​​ ​ ​ www.linkedin.com/in/senaykt/ ​ ​codepen.io/Shenay/pen/jYOoOg
 Objectives:
 A forward-thinking, self-taught developer offering more than 2 years of experience building, creating integrating, supporting and improving Web development. Extensive skill delegating tasks based on priority.
 Technologies​:​
