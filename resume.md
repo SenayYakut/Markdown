@@ -1,26 +1,26 @@
 
  # SENAY YAKUT, Software Engineer 
-## San Francisco, CA, USA &nbsp;&nbsp;&nbsp;  [senaykt@gmail.com](senaykt@gmail.com)
+## San Francisco, CA, USA &nbsp;&nbsp;&nbsp;  senaykt@gmail.com
 
 [github.com/SenayYakut](https://github.com/SenayYakut)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Linkedin/SenayYakut](https://www.linkedin.com/in/senaykt/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [codepen.io/Senay](https://codepen.io/Shenay/pen/PeaNpV)
 
 
-__Objectives:__
+### __Objectives:__
 
 A forward-thinking, self-taught developer offering more than 2 years of experience building, creating integrating, supporting and improving Web development. Extensive skill delegating tasks based on priority.
 
-__Technologies:__
+### __Technologies:__
 
 Python,JavaScript,ES6, Flask, jQuery, React, HTML5, DOM, CSS3, Media Queries, SCSS,Typography, Web fonts, Flexbox, Grid Layout, Animations, Bootstrap, GitHub, Jupyter Notebook, Codepen
 
-__Projects:__
+### __Projects:__
 
 __End to end database application__ 
 *Python, Flask, Jupyter Notebook*[Github](https://github.com/SenayYakut/End_to_end_database_application)Feb-2019
 
-* Created a database to store data, users can create auctions. After a given period of time, they can see if they lost or won. 
+* Created a database to store data, users can create auctions. After a given period of time, users can see if they lost or won. 
 
 __PixelArtMaker__ *JavaScript,JQuery,DOM,HTML5,CSS3* [Codepen](https://codepen.io/Shenay/pen/BrdMNo)MAY-2018
 
@@ -38,7 +38,7 @@ __Virtual Credit Card__ *JavaScript, API’s CAPITAL ONE Hackathon* [Github](htt
 * I contributed with an idea, and building the front-end code.
 * Bot can allow users to create an instant virtual card by voice.
 
-__Professional Experience:__
+### __Professional Experience:__
 
 __Freelance Front-end Developer,__ San Francisco, CA | Oct 2016-Present
 
@@ -54,24 +54,26 @@ __Registered Nurse,__ Cardiac unit Florence Nightingale Hospital Istanbul, Turke
 
 * Took care of patients with other healthcare workers pre or post various type of cardiac surgeries.
 
-__RegisteredNurse,__ Pediatric unit Istanbul University Medical School Istanbul,Turkey | Aug-2010May-2011
+__Registered Nurse,__ Pediatric unit Istanbul University Medical School Istanbul,Turkey | Aug-2010May-2011
 
 * Took care of pediatric patients with emergency needs. Triage them by myself.
 
-__Education:__
+### __Education:__
 
-CODE GIT: Girls in Tech Web Development In Python Bootcamp (5 days)  Jan21-Jan26 2019
+__City Collage of San Francisco:__&nbsp;Computer Science Basics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April-2019
 
-Udacity: Google scholarship Front-end Nanodegree  June2018-Sep2019
+__CODE GIT:__&nbsp;Girls in Tech Web Development In Python Bootcamp (5 days)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan21-Jan26 2019
 
-Codecademy: JavaScriptcourses  Aug2017-June2017
+__Udacity:__&nbsp;Google scholarship Front-end Nanodegree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June2018-Sep2019
 
-Lynda.com: Front-end Web development courses  Jan2017-May2017
+__Codecademy:__&nbsp;JavaScript courses&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug2017-June2017
 
-Galecourse: HTML5,CSS3,JavaScriptcourses,ResponsiveWebDesign  June2017-Dec2017 
+__Lynda.com:__&nbsp;Front-end Web development courses  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan2017-May2017
 
-Treehouse: IntroductionHTML5,CSS3  Oct2016-Dec2016
+__Galecourse:__&nbsp; HTML5,CSS3,JavaScriptcourses,ResponsiveWebDesign  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June2017-Dec2017 
 
-BS in Nursing June-2006
+__Treehouse:__&nbsp;IntroductionHTML5,CSS3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oct2016-Dec2016
+
+__BS in Nursing__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June-2006
 
 
