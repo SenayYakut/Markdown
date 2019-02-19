@@ -20,7 +20,7 @@ __Projects:__
 
 __MemoryGame__
 
-J​avaScript,HTML5,DOM,CSS3,Bootstrap,​​ ​codepen.io/Shenay/pen/QBMWMR​​​ ​JULY-2018
+JavaScript, HTML5,DOM,CSS3,Bootstrap, codepen.io/Shenay/pen/QBMWMR​​​ ​JULY-2018
 
 ● Single-Page web app game built with React and hosted on GitHub Pages.
 
@@ -56,30 +56,36 @@ __Freelance Front-end Developer,__ San Francisco, CA | ​​Oct 2016-Present
 ● Learning the newest technology by myself or from other experienced developers. Applying them.
 ● ​Integrating, Building, C​​ reating Bots, Using different API’ with 1 or 2 developers and UX Designers.
 
-**Volunteer, Women Who Code** ​​San Francisco, CA | S​​ ep 2016-Oct 
+__Volunteer, Women Who Code__
+
+San Francisco, CA | Sep 2016-Oct 
 
 ● I organized tech events with 2 other senior developers to bring more women into tech, network.
 
-**Registered Nurse,** ​C​ ardiac unit​ F​ lorence Nightingale Hospital ​​ Istanbul, Turkey​ | ​​Jan-2012 July-2
+__Registered Nurse,__
+
+Cardiac unit Florence Nightingale Hospital Istanbul, Turkey | Jan-2012 July-2
 
 ● Took care of patients with other healthcare workers pre or post various type of cardiac surgeries.
 
-**RegisteredNurse,**​P​ediatricI​​stanbulUniversityMedicalSchool ​​Istanbul,Turkey​|A​ug-2010May-2011
+__RegisteredNurse,__
+
+Pediatric unit IstanbulUniversity MedicalSchool Istanbul,Turkey|Aug-2010May-2011
 
 ● Took care of pediatric patients with emergency needs. Triage them by myself.
 
 __Education:__
 
-Udacity, Google scholarship Front-end Nanodegree June2018-Present​​
+Udacity: Google scholarship Front-end Nanodegree June2018-Sep2019
 
-Codecademy​J​avaScriptcourses​ ​Aug2017-June2017
+Codecademy: JavaScriptcourses Aug2017-June2017
 
-Lynda.com ​F​ ront-end Web development courses ​Jan2017-May2017​​
+Lynda.com: Front-end Web development courses Jan2017-May2017
 
-Galecourses​​HTML5,CSS3,JavaScriptcourses,ResponsiveWebDesign​​ June2017-Dec2017 
+Galecourse: HTML5,CSS3,JavaScriptcourses,ResponsiveWebDesign  June2017-Dec2017 
 
-Treehouse​I​ntroductionHTML5,CSS3 ​​ ​Oct2016-Dec2016​​ 
+Treehouse: IntroductionHTML5,CSS3  Oct2016-Dec2016
 
-BS in Nursing ​June-2006
-​​
+BS in Nursing June-2006
+
 
