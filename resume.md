@@ -18,21 +18,21 @@ Python,JavaScript,ES6, Flask, jQuery, React, HTML5, DOM, CSS3, Media Queries, SC
 ### __Projects:__
 
 __End to end database application__ 
-*Python, Flask, Jupyter Notebook*[Github](https://github.com/SenayYakut/End_to_end_database_application)Feb-2019
+*Python, Flask, Jupyter Notebook*&nbsp;&nbsp;[Github](https://github.com/SenayYakut/End_to_end_database_application)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feb-2019
 
 * Created a database to store data, users can create auctions. After a given period of time, users can see if they lost or won. 
 
-__PixelArtMaker__ *JavaScript,JQuery,DOM,HTML5,CSS3* [Codepen](https://codepen.io/Shenay/pen/BrdMNo)MAY-2018
+__PixelArtMaker__ *JavaScript,JQuery,DOM,HTML5,CSS3*&nbsp;&nbsp; [Codepen](https://codepen.io/Shenay/pen/BrdMNo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAY-2018
 
 * Built and Designed a single-page web-app allow a user to draw pixel art on customizable canvas.
 
-__Portfolio Website__ *HTML5,CSS3,FlexBox* [Codepen](https://codepen.io/Shenay/pen/PeaNpV) JUNE-2018 
+__Portfolio Website__ *HTML5,CSS3,FlexBox*&nbsp;&nbsp; [Codepen](https://codepen.io/Shenay/pen/PeaNpV)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JUNE-2018 
 
 * A responsive website built and designed by CSS FlexBox, Responsive design techniques.
 * Website adjustable with different screen sizes(mobile,laptop,desktop) cross-browsing.
 * Users can go to different pages and learn more about my projects.
 
-__Virtual Credit Card__ *JavaScript, API’s CAPITAL ONE Hackathon* [Github](https://github.com/SenayYakut/sundayJam)AUG-2018 
+__Virtual Credit Card__ *JavaScript, API’s CAPITAL ONE Hackathon*&nbsp;&nbsp; [Github](https://github.com/SenayYakut/sundayJam)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUG-2018 
 
 * Developed a bot with 1 other back-end developer and 1 UX Designer.
 * I contributed with an idea, and building the front-end code.
